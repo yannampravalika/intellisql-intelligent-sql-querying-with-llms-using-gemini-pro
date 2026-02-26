@@ -1,0 +1,1 @@
+# intellisql-intelligent-sql-querying-with-llms-using-gemini-pro
